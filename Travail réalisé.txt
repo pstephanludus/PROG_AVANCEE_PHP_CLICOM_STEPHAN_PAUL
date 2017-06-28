@@ -1,0 +1,2 @@
+Le site permet à un utilisateur de se connecter, de se déonnecter, et de s'inscrire.
+Une page de recherche d'utilisateur était en développement, mais coinçait au stade du renvoi des utilisateurs. La requête doit avoir un problème.
